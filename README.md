@@ -1,6 +1,6 @@
 # *encryptmax*
 
-## *encrypt max is a combination of two programs with two different languages for encrypting files with XOR.* 
+## *encryptmax is a combination of two programs with two different languages for encrypting files with XOR.* 
 
 ## *how to use*
 		
